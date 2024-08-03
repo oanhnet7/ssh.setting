@@ -6,6 +6,6 @@ ssh-keygen -t rsa -b 4096 -C yourname@protonmail.com
 	 authorized_keys in .ssh or administrators_authorized_keys in programdata 
 	 put public key (on server)
 	 
-	 
-	 if error permission - security - advanced - disable inheritance 
+	 in window 
+	 if private file error permission - security - advanced - disable inheritance 
 	 delete another user except administrators & system 
